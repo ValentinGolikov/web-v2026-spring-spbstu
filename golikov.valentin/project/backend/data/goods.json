@@ -1,0 +1,510 @@
+[
+  {
+    "id": 1,
+    "name": "Внешний аккумулятор 10000mAh, белый",
+    "price": 1990,
+    "rating": 4.5,
+    "category": "Портативная акустика",
+    "color": "белый",
+    "badge": "hit",
+    "image": "image_1.png",
+    "description": "Внешний аккумулятор 10000mAh белого цвета. Компактный и мощный.",
+    "specs": {
+      "warranty": "1 год",
+      "capacity": "10000 mAh",
+      "ports": "USB-A, USB-C"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Внешний аккумулятор 10000mAh, черный",
+    "price": 1890,
+    "rating": 4.3,
+    "category": "Портативная акустика",
+    "color": "черный",
+    "badge": null,
+    "image": "image_2.png",
+    "description": "Внешний аккумулятор 10000mAh чёрного цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "capacity": "10000 mAh",
+      "ports": "USB-A, USB-C"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth гарнитура, черный",
+    "price": 2490,
+    "rating": 4.6,
+    "category": "Портативная акустика",
+    "color": "черный",
+    "badge": "hit",
+    "image": "image_3.png",
+    "description": "Bluetooth гарнитура чёрного цвета с отличным звуком.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.0",
+      "battery": "8 часов"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth гарнитура, серый",
+    "price": 2390,
+    "rating": 4.2,
+    "category": "Портативная акустика",
+    "color": "серый",
+    "badge": null,
+    "image": "image_4.png",
+    "description": "Bluetooth гарнитура серого цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.0",
+      "battery": "8 часов"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Беспроводная акустика",
+    "price": 4990,
+    "rating": 4.8,
+    "category": "Портативная акустика",
+    "color": "розовый",
+    "badge": "hit",
+    "image": "image_5.png",
+    "description": "Беспроводная акустика с мощным звуком.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.1",
+      "battery": "12 часов"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Смартфон 256 ГБ фиолетовый",
+    "price": 43999,
+    "rating": 4.2,
+    "category": "Смартфоны",
+    "color": "фиолетовый",
+    "badge": "new",
+    "image": "image_6.png",
+    "description": "Смартфон 256 ГБ фиолетового цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "6.1\" AMOLED",
+      "processor": "Snapdragon 8 Gen 2"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Смартфон 256 ГБ черный",
+    "price": 43999,
+    "rating": 4.4,
+    "category": "Смартфоны",
+    "color": "черный",
+    "badge": "new",
+    "image": "image_7.png",
+    "description": "Смартфон 256 ГБ чёрного цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "6.1\" AMOLED",
+      "processor": "Snapdragon 8 Gen 2"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Смартфон 256 ГБ белый",
+    "price": 43999,
+    "rating": 4.3,
+    "category": "Смартфоны",
+    "color": "белый",
+    "badge": "new",
+    "image": "image_8.png",
+    "description": "Смартфон 256 ГБ белого цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "6.1\" AMOLED",
+      "processor": "Snapdragon 8 Gen 2"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Часы с GPS трекером черные",
+    "price": 15199,
+    "rating": 4.0,
+    "category": "Умные часы",
+    "color": "черный",
+    "badge": "hit",
+    "image": "image_9.png",
+    "description": "Часы с GPS трекером чёрного цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "1.4\" TFT",
+      "battery": "7 дней"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Часы с GPS трекером синие",
+    "price": 15199,
+    "rating": 4.1,
+    "category": "Умные часы",
+    "color": "синий",
+    "badge": null,
+    "image": "image_10.png",
+    "description": "Часы с GPS трекером синего цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "1.4\" TFT",
+      "battery": "7 дней"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Фитнес-браслет ASK-B19 зеленый",
+    "price": 2299,
+    "rating": 4.5,
+    "category": "Фитнес-браслеты",
+    "color": "зеленый",
+    "badge": "new",
+    "image": "image_11.png",
+    "description": "Фитнес-браслет ASK-B19 зелёного цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "0.96\" OLED",
+      "battery": "14 дней"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Фитнес-браслет ASK-B19 черный",
+    "price": 2299,
+    "rating": 4.4,
+    "category": "Фитнес-браслеты",
+    "color": "черный",
+    "badge": null,
+    "image": "image_12.png",
+    "description": "Фитнес-браслет ASK-B19 чёрного цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "0.96\" OLED",
+      "battery": "14 дней"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Наушники белые",
+    "price": 3490,
+    "rating": 4.7,
+    "category": "Портативная акустика",
+    "color": "белый",
+    "badge": null,
+    "image": "image_13.png",
+    "description": "Наушники белого цвета с отличным звуком.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.0",
+      "battery": "20 часов"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Наушники синие",
+    "price": 3490,
+    "rating": 4.6,
+    "category": "Портативная акустика",
+    "color": "синий",
+    "badge": null,
+    "image": "image_14.png",
+    "description": "Наушники синего цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.0",
+      "battery": "20 часов"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Наушники черные",
+    "price": 3490,
+    "rating": 4.5,
+    "category": "Портативная акустика",
+    "color": "черный",
+    "badge": "hit",
+    "image": "image_15.png",
+    "description": "Наушники чёрного цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.0",
+      "battery": "20 часов"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Видеокамера для блогера",
+    "price": 12990,
+    "rating": 4.3,
+    "category": "Портативная акустика",
+    "color": "черный",
+    "badge": "new",
+    "image": "image_16.png",
+    "description": "Видеокамера для блогера с отличным качеством съёмки.",
+    "specs": {
+      "warranty": "1 год",
+      "resolution": "4K",
+      "battery": "90 минут"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Микрофон с разъемом Type-C",
+    "price": 1490,
+    "rating": 4.1,
+    "category": "Портативная акустика",
+    "color": "черный",
+    "badge": null,
+    "image": "image_17.png",
+    "description": "Микрофон с разъёмом Type-C для смартфонов.",
+    "specs": {
+      "warranty": "1 год",
+      "connector": "Type-C",
+      "frequency": "20-20000 Гц"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Чехол-подвеска силиконовый с карабином, красный",
+    "price": 390,
+    "rating": 3.8,
+    "category": "Портативная акустика",
+    "color": "красный",
+    "badge": null,
+    "image": "image_18.png",
+    "description": "Чехол-подвеска силиконовый с карабином красного цвета.",
+    "specs": {
+      "warranty": "6 месяцев",
+      "material": "силикон"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Чехол-подвеска силиконовый с карабином, белый",
+    "price": 390,
+    "rating": 3.9,
+    "category": "Портативная акустика",
+    "color": "белый",
+    "badge": null,
+    "image": "image_19.png",
+    "description": "Чехол-подвеска силиконовый с карабином белого цвета.",
+    "specs": {
+      "warranty": "6 месяцев",
+      "material": "силикон"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Чехол-подвеска силиконовый с карабином, серый",
+    "price": 390,
+    "rating": 3.7,
+    "category": "Портативная акустика",
+    "color": "серый",
+    "badge": null,
+    "image": "image_20.png",
+    "description": "Чехол-подвеска силиконовый с карабином серого цвета.",
+    "specs": {
+      "warranty": "6 месяцев",
+      "material": "силикон"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Чехол-подвеска силиконовый с карабином, желтый",
+    "price": 390,
+    "rating": 4.0,
+    "category": "Портативная акустика",
+    "color": "желтый",
+    "badge": null,
+    "image": "image_21.png",
+    "description": "Чехол-подвеска силиконовый с карабином жёлтого цвета.",
+    "specs": {
+      "warranty": "6 месяцев",
+      "material": "силикон"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Беспроводная акустика, серый",
+    "price": 4990,
+    "rating": 4.6,
+    "category": "Портативная акустика",
+    "color": "серый",
+    "badge": null,
+    "image": "image_22.png",
+    "description": "Беспроводная акустика серого цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.1",
+      "battery": "12 часов"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Беспроводная акустика, голубой",
+    "price": 4990,
+    "rating": 4.7,
+    "category": "Портативная акустика",
+    "color": "голубой",
+    "badge": "new",
+    "image": "image_23.png",
+    "description": "Беспроводная акустика голубого цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.1",
+      "battery": "12 часов"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Беспроводная акустика, бежевый",
+    "price": 4990,
+    "rating": 4.5,
+    "category": "Портативная акустика",
+    "color": "бежевый",
+    "badge": null,
+    "image": "image_24.png",
+    "description": "Беспроводная акустика бежевого цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "connectivity": "Bluetooth 5.1",
+      "battery": "12 часов"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Умная лампа",
+    "price": 2990,
+    "rating": 4.4,
+    "category": "Портативная акустика",
+    "color": "белый",
+    "badge": "new",
+    "image": "image_25.png",
+    "description": "Умная лампа с управлением через приложение.",
+    "specs": {
+      "warranty": "1 год",
+      "power": "9 Вт",
+      "connectivity": "Wi-Fi"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Аппаратный ключ аутентификации NFC",
+    "price": 10590,
+    "rating": 5.0,
+    "category": "Портативная акустика",
+    "color": "желтый",
+    "badge": "hit",
+    "image": "image_26.png",
+    "description": "Аппаратный ключ аутентификации NFC.",
+    "specs": {
+      "warranty": "2 года",
+      "connectivity": "NFC, USB-A",
+      "protocols": "FIDO2, U2F"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Аппаратный криптокошелек",
+    "price": 8990,
+    "rating": 4.9,
+    "category": "Портативная акустика",
+    "color": "черный",
+    "badge": null,
+    "image": "image_27.png",
+    "description": "Аппаратный криптокошелёк для хранения цифровых активов.",
+    "specs": {
+      "warranty": "1 год",
+      "screen": "1.3\" E-Ink",
+      "connectivity": "USB-C"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Очки виртуальной реальности, смартфоны до 6,5\"",
+    "price": 1990,
+    "rating": 3.5,
+    "category": "Очки виртуальной реальности",
+    "color": "черный",
+    "badge": null,
+    "image": "image_28.png",
+    "description": "Очки виртуальной реальности для смартфонов до 6.5\".",
+    "specs": {
+      "warranty": "6 месяцев",
+      "compatibility": "смартфоны до 6.5\"",
+      "material": "пластик"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Шлем виртуальной реальности 128GB",
+    "price": 49990,
+    "rating": 4.8,
+    "category": "Очки виртуальной реальности",
+    "color": "черный",
+    "badge": "hit",
+    "image": "image_29.png",
+    "description": "Шлем виртуальной реальности 128GB.",
+    "specs": {
+      "warranty": "1 год",
+      "storage": "128 GB",
+      "processor": "Snapdragon XR2"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Умный чемодан-скутер серый",
+    "price": 89990,
+    "rating": 4.2,
+    "category": "Электротранспорт",
+    "color": "серый",
+    "badge": "new",
+    "image": "image_30.png",
+    "description": "Умный чемодан-скутер серого цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "speed": "до 13 км/ч",
+      "battery": "до 20 км"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Умный чемодан-скутер черный",
+    "price": 89990,
+    "rating": 4.3,
+    "category": "Электротранспорт",
+    "color": "черный",
+    "badge": null,
+    "image": "image_31.png",
+    "description": "Умный чемодан-скутер чёрного цвета.",
+    "specs": {
+      "warranty": "1 год",
+      "speed": "до 13 км/ч",
+      "battery": "до 20 км"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Дыхательный тренажер",
+    "price": 3490,
+    "rating": 4.1,
+    "category": "Портативная акустика",
+    "color": "белый",
+    "badge": null,
+    "image": "image_32.png",
+    "description": "Дыхательный тренажёр для улучшения дыхания.",
+    "specs": {
+      "warranty": "1 год",
+      "material": "пластик",
+      "weight": "150 г"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'Rubik';
+  src: url('../../public/fonts/Rubik-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('../../public/fonts/Rubik-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+}
+
+:root {
+  --color-primary: #0066FF;
+  --color-accent: #FF3CAC;
+  --color-footer-bg: #1A2B6B;
+  --color-badge-new: #2ECC71;
+  --color-badge-hit: #FF3CAC;
+  --color-star: #FFD700;
+  --color-text: #1A1A1A;
+  --color-text-secondary: #666666;
+  --color-bg: #F5F7FA;
+  --color-white: #FFFFFF;
+  --color-border: #E0E0E0;
+  --color-error: #E53935;
+  --border-radius: 12px;
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  --font-family: 'Rubik', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  color: var(--color-text);
+  background-color: var(--color-white);
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  font-family: var(--font-family);
+}
+
+input, select, textarea {
+  font-family: var(--font-family);
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}

@@ -1,0 +1,164 @@
+.page {
+  min-height: calc(100vh - 120px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #EEF2FF;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Illustration */
+.illustration {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.shapes {
+  position: absolute;
+  inset: 0;
+}
+
+.shape {
+  position: absolute;
+  border-radius: 20px;
+  opacity: 0.5;
+}
+
+.shapeBlue {
+  width: 200px;
+  height: 200px;
+  background: #4A90E2;
+  top: 10%;
+  left: -40px;
+  transform: rotate(15deg);
+}
+
+.shapeGreen {
+  width: 160px;
+  height: 160px;
+  background: #50C878;
+  bottom: 20%;
+  left: 20%;
+  border-radius: 50%;
+}
+
+.shapePink {
+  width: 180px;
+  height: 180px;
+  background: #FF69B4;
+  bottom: 5%;
+  right: 10%;
+  transform: rotate(-10deg);
+}
+
+.shapeYellow {
+  width: 120px;
+  height: 120px;
+  background: #FFD700;
+  top: 40%;
+  right: 5%;
+  border-radius: 50%;
+}
+
+.gadgets {
+  position: absolute;
+  inset: 0;
+}
+
+.gadget {
+  position: absolute;
+  line-height: 1;
+}
+
+/* Form */
+.formWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  z-index: 1;
+  position: relative;
+}
+
+.form {
+  background: var(--color-white);
+  border-radius: var(--border-radius);
+  padding: 40px 36px;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+}
+
+.required {
+  color: var(--color-accent);
+}
+
+.input {
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 14px;
+  background: var(--color-bg);
+  color: var(--color-text);
+  transition: border-color 0.2s;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.inputError {
+  border-color: var(--color-error);
+}
+
+.errorMsg {
+  font-size: 13px;
+  color: var(--color-error);
+  text-align: center;
+}
+
+.submitBtn {
+  background: var(--color-primary);
+  color: var(--color-white);
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 4px;
+  transition: background 0.2s;
+}
+
+.submitBtn:hover:not(:disabled) {
+  background: #0052CC;
+}
+
+.submitBtn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}

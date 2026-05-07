@@ -1,0 +1,102 @@
+[
+  {
+    "orderId": "78103",
+    "login": "user",
+    "createdAt": "2026-05-07T08:01:43.835Z",
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "quantity": 1,
+        "price": 43999
+      }
+    ],
+    "total": 43999,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "card",
+    "needsWrapping": true
+  },
+  {
+    "orderId": "86081",
+    "login": "user",
+    "createdAt": "2026-05-07T12:02:33.385Z",
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "quantity": 1,
+        "price": 43999
+      }
+    ],
+    "total": 43999,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "card",
+    "needsWrapping": true
+  },
+  {
+    "orderId": "39651",
+    "login": "user",
+    "createdAt": "2026-05-07T12:28:58.817Z",
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "quantity": 1,
+        "price": 43999
+      }
+    ],
+    "total": 43999,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "card",
+    "needsWrapping": true
+  },
+  {
+    "orderId": "43175",
+    "login": "admin",
+    "createdAt": "2026-05-07T12:29:21.243Z",
+    "items": [
+      {
+        "productId": 30,
+        "name": "Умный чемодан-скутер серый",
+        "quantity": 1,
+        "price": 89990
+      }
+    ],
+    "total": 89990,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "card",
+    "needsWrapping": true
+  },
+  {
+    "orderId": "44769",
+    "login": "admin",
+    "createdAt": "2026-05-07T12:39:24.046Z",
+    "items": [
+      {
+        "productId": 1,
+        "name": "Внешний аккумулятор 10000mAh, белый",
+        "quantity": 1,
+        "price": 1990
+      }
+    ],
+    "total": 1990,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "cash",
+    "needsWrapping": true
+  }
+]
