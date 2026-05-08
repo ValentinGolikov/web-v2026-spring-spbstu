@@ -98,5 +98,83 @@
     "email": "triderm300@gmail.com",
     "paymentMethod": "cash",
     "needsWrapping": true
+  },
+  {
+    "orderId": "76089",
+    "login": "admin",
+    "createdAt": "2026-05-07T18:09:42.570Z",
+    "items": [
+      {
+        "productId": 16,
+        "name": "Видеокамера для блогера",
+        "quantity": 1,
+        "price": 12990
+      },
+      {
+        "productId": 1,
+        "name": "Внешний аккумулятор 10000mAh, белый",
+        "quantity": 1,
+        "price": 1990
+      }
+    ],
+    "total": 14980,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "cash",
+    "needsWrapping": false
+  },
+  {
+    "orderId": "77687",
+    "login": "user",
+    "createdAt": "2026-05-07T18:16:03.369Z",
+    "items": [
+      {
+        "productId": 30,
+        "name": "Умный чемодан-скутер серый",
+        "quantity": 1,
+        "price": 89990
+      },
+      {
+        "productId": 18,
+        "name": "Чехол-подвеска силиконовый с карабином, красный",
+        "quantity": 1,
+        "price": 390
+      }
+    ],
+    "total": 90380,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "card",
+    "needsWrapping": false
+  },
+  {
+    "orderId": "85794",
+    "login": "user",
+    "createdAt": "2026-05-08T16:45:10.409Z",
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "quantity": 1,
+        "price": 43999
+      },
+      {
+        "productId": 1,
+        "name": "Внешний аккумулятор 10000mAh, белый",
+        "quantity": 1,
+        "price": 1990
+      }
+    ],
+    "total": 45989,
+    "delivery": "pickup",
+    "address": null,
+    "phone": "+79319875212",
+    "email": "triderm300@gmail.com",
+    "paymentMethod": "online",
+    "needsWrapping": true
   }
 ]

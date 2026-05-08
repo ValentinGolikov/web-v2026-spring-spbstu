@@ -17,7 +17,8 @@ const CartPage = () => {
     updateQuantity,
     toggleSelect,
     selectAll,
-    clearCart,
+    deselectAll,
+    clearSelectedItems,
   } = useCart();
 
   const { isAuthenticated } = useAuth();
@@ -83,7 +84,8 @@ const CartPage = () => {
   };
 
   const handleOrderSuccess = () => {
-    clearCart();
+    // Remove only selected items after successful order
+    clearSelectedItems();
     setOrderNumber(null);
   };
 
@@ -147,16 +149,16 @@ const CartPage = () => {
                         type="checkbox"
                         className={styles.checkbox}
                         checked={allSelected}
-                        onChange={selectAll}
+                        onChange={() => allSelected ? deselectAll() : selectAll()}
                       />
-                      Выбрать все
+                      {allSelected ? 'Снять все' : 'Выбрать все'}
                     </label>
                     {selectedItems.length > 0 && (
                       <button
                         className={styles.deleteAllBtn}
                         onClick={handleDeleteAllClick}
                       >
-                        × Удалить все
+                        × Удалить выбранные
                       </button>
                     )}
                   </div>
